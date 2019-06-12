@@ -1,12 +1,6 @@
 # react-native-hooks-example
 Example using React Hooks with React Native
 
-## Libraries
-
-* Styled Components
-* Native Base
-* React Animated
-
 ![Preview](https://i.postimg.cc/kMNqp7Q0/Whats-App-Image-2019-06-12-at-03-34-45.jpg)
 
 
