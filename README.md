@@ -1,9 +1,8 @@
 # react-native-hooks-example
-Example using the new React Hooks with React Native
+Example using React Hooks with React Native
 
 ## Libraries
 
-* 
 * Styled Components
 * Native Base
 * React Animated
